@@ -1,0 +1,101 @@
+\begin{thebibliography}{10}
+
+\bibitem{eddy1998profile}
+Sean~R. Eddy.
+\newblock Profile hidden markov models.
+\newblock {\em Bioinformatics}, 14(9):755--763, 1998.
+
+\bibitem{ferragina2005indexing}
+Paolo Ferragina and Giovanni Manzini.
+\newblock Indexing compressed text.
+\newblock {\em Journal of the ACM (JACM)}, 52(4):552--581, 2005.
+
+\bibitem{grossi2005compressed}
+Roberto Grossi and Jeffrey~Scott Vitter.
+\newblock Compressed suffix arrays and suffix trees with applications to text
+  indexing and string matching.
+\newblock {\em SIAM Journal on Computing}, 35(2):378--407, 2005.
+
+\bibitem{homer2009bfast}
+Nils Homer, Barry Merriman, and Stanley~F Nelson.
+\newblock Bfast: an alignment tool for large scale genome resequencing.
+\newblock {\em PloS one}, 4(11):e7767, 2009.
+
+\bibitem{huo2014practical}
+Hongwei Huo, Longgang Chen, Jeffrey~Scott Vitter, and Yakov Nekrich.
+\newblock A practical implementation of compressed suffix arrays with
+  applications to self-indexing.
+\newblock In {\em Data Compression Conference (DCC), 2014}, pages 292--301.
+  IEEE, 2014.
+
+\bibitem{langmead2009ultrafast}
+Ben Langmead, Cole Trapnell, Mihai Pop, Steven~L Salzberg, et~al.
+\newblock Ultrafast and memory-efficient alignment of short dna sequences to
+  the human genome.
+\newblock {\em Genome Biol}, 10(3):R25, 2009.
+
+\bibitem{lesk1e21986alignment}
+Arthur~M Lesk1e2, Michael Levitt, and Cyrus Chothia1a4.
+\newblock Alignment of the amino acid sequences of distantly related proteins
+  using variable gap penalties.
+\newblock {\em Protein Engineering}, 1(1):77--78, 1986.
+
+\bibitem{li2009fast}
+Heng Li and Richard Durbin.
+\newblock Fast and accurate short read alignment with burrows--wheeler
+  transform.
+\newblock {\em Bioinformatics}, 25(14):1754--1760, 2009.
+
+\bibitem{li2008mapping}
+Heng Li, Jue Ruan, and Richard Durbin.
+\newblock Mapping short dna sequencing reads and calling variants using mapping
+  quality scores.
+\newblock {\em Genome research}, 18(11):1851--1858, 2008.
+
+\bibitem{li2008soap}
+Ruiqiang Li, Yingrui Li, Karsten Kristiansen, and Jun Wang.
+\newblock Soap: short oligonucleotide alignment program.
+\newblock {\em Bioinformatics}, 24(5):713--714, 2008.
+
+\bibitem{li2009soap2}
+Ruiqiang Li, Chang Yu, Yingrui Li, Tak-Wah Lam, Siu-Ming Yiu, Karsten
+  Kristiansen, and Jun Wang.
+\newblock Soap2: an improved ultrafast tool for short read alignment.
+\newblock {\em Bioinformatics}, 25(15):1966--1967, 2009.
+
+\bibitem{li2012wham}
+Yinan Li, Jignesh~M Patel, and Allison Terrell.
+\newblock Wham: a high-throughput sequence alignment method.
+\newblock {\em ACM Transactions on Database Systems (TODS)}, 37(4):28, 2012.
+
+\bibitem{lin2008zoom}
+Hao Lin, Zefeng Zhang, Michael~Q Zhang, Bin Ma, and Ming Li.
+\newblock Zoom! zillions of oligos mapped.
+\newblock {\em Bioinformatics}, 24(21):2431--2437, 2008.
+
+\bibitem{lippert2005space}
+Ross~A Lippert.
+\newblock Space-efficient whole genome comparisons with burrows-wheeler
+  transforms.
+\newblock {\em Journal of Computational Biology}, 12(4):407--415, 2005.
+
+\bibitem{manber1993suffix}
+Udi Manber and Gene Myers.
+\newblock Suffix arrays: a new method for on-line string searches.
+\newblock {\em siam Journal on Computing}, 22(5):935--948, 1993.
+
+\bibitem{rumble2009shrimp}
+Stephen~M Rumble, Phil Lacroute, Adrian~V Dalca, Marc Fiume, Arend Sidow, and
+  Michael Brudno.
+\newblock Shrimp: accurate mapping of short color-space reads.
+\newblock {\em PLoS computational biology}, 5(5):e1000386, 2009.
+
+\bibitem{sadakane2002succinct}
+Kunihiko Sadakane.
+\newblock Succinct representations of lcp information and improvements in the
+  compressed suffix arrays.
+\newblock In {\em Proceedings of the thirteenth annual ACM-SIAM symposium on
+  Discrete algorithms}, pages 225--232. Society for Industrial and Applied
+  Mathematics, 2002.
+
+\end{thebibliography}
